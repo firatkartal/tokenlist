@@ -46,6 +46,14 @@
           "logoURI": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326"
         },
         {
+          "name": "BitcashPay",
+          "address": "0xe047705117Eb07e712C3d684f5B18E74577e83aC",
+          "symbol": "BCP",
+          "decimals": 8,
+          "chainId": 1,
+          "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe047705117Eb07e712C3d684f5B18E74577e83aC/logo.png"
+        },
+        {
           "name": "Compound",
           "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
           "symbol": "COMP",
