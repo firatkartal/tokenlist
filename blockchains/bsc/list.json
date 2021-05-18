@@ -1,0 +1,33 @@
+{
+    "name": "FalconSwap Default List (BSC)",
+    "timestamp": "",
+    "version": {
+        "major": 1,
+        "minor": 4,
+        "patch": 2
+    },
+    "tags": {},
+    "logoURI": "",
+    "keywords": [
+        "falconswap",
+        "default"
+    ],
+    "tokens": [
+        {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8c77482e45F1F44dE1745F52C74426C631bDD52/logo.png",
+            "name": "Binance Coin",
+            "symbol": "BSC"
+        },
+        {
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png",
+            "name": "BUSD Token",
+            "symbol": "BUSD"
+        }
+    ]
+}
